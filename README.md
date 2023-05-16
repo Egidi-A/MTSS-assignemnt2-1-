@@ -1,4 +1,4 @@
-[![Build](https://github.com/Egidi-A/MTSS-assignment2-1-/actions/workflows/build.yml/badge.svg?branch=master&event=push)](https://github.com/Egidi-A/MTSS-assignment2-1-/actions/workflows/build.yml)
+[![Build](https://github.com/Egidi-A/MTSS-assignemnt2-1-/actions/workflows/build.yml/badge.svg?branch=master&event=push)](https://github.com/Egidi-A/MTSS-assignemnt2-1-/actions/workflows/build.yml)
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches_coverage](.github/badges/branches.svg)
 ![CheckStyle](.github/badges/checkstyle-result.svg)
